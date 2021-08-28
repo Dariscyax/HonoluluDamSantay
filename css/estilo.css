@@ -1,0 +1,47 @@
+form{
+    display: flex;
+    flex-flow:column ;
+    height: 70%;
+    padding: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-success{ 
+    background-color: rgb(135, 243, 92);
+    border: rgb(135, 243, 92);
+    width: 190px;
+    height: 38px;
+}
+
+
+
+
+  
+  
+  .left .content p{
+    text-align: justify;
+  }
+  
+  .left .content .sociales{
+    margin: 20px 0 0 0;
+  }
+  
+  .left .content .sociales a{
+    padding: 0 2px;
+  
+  }
+  
+  .left .content .sociales a span{
+    height: 40px;
+    width: 40px;
+    background: #fcfafa;
+    line-height: 40px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 5px;
+  }
+  
+.left .content .sociales a span:hover{
+    background-color: rgb(135, 243, 92);
+}
